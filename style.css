@@ -32,6 +32,16 @@ section {
     padding: 20px;
 }
 
+/* #phd-thesis a {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+} */
+
 #phd-thesis a {
     display: inline-block;
     background-color: #4CAF50;
@@ -41,6 +51,12 @@ section {
     border-radius: 5px;
     margin-top: 10px;
 }
+
+#phd-thesis a:hover {
+    background-color: #45a049;
+}
+
+
 
 #phd-thesis a:hover {
     background-color: #45a049;
