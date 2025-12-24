@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher in AI at the Technical University of Munich, hosted at the Chair of Resource-Aware Machine Learning led by Prof. Dr. **Suvrit Sra**. I received my PhD in Mathematics from the University of British Columbia, where my research focused on projection methods for deep learning and I was fortunate to be advised by **Heinz Bauschke** and **Xianfu Wang**.  
+I am a postdoctoral researcher in AI at the Technical University of Munich, hosted at the Chair of Resource-Aware Machine Learning led by **Suvrit Sra**. I received my PhD in Mathematics from the University of British Columbia, where my research focused on projection methods for deep learning and I was fortunate to be advised by **Heinz Bauschke** and **Xianfu Wang**.  
 
 My research is motivated by fundamental questions in nonconvex optimization and their applications to training, sampling, and inference in AI. 
