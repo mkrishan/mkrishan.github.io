@@ -24,10 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher in AI at the Technical University of Munich, hosted at the Chair of Resource-Aware Machine Learning led by [Suvrit Sra](https://mcml.ai/research/groups/sra/). I received my PhD in Mathematics from the University of British Columbia, where my research focused on fundamentals of projection methods for deep learning and I was fortunate to be advised by [Heinz Bauschke](https://cmps-people.ok.ubc.ca/bauschke/) and [Xianfu Wang](https://cmps.ok.ubc.ca/about/contact/shawn-xianfu-wang/).  
+I am a postdoctoral researcher in AI at the Technical University of Munich, hosted at the Chair of Resource-Aware Machine Learning led by [Suvrit Sra](https://mcml.ai/research/groups/sra/). I received my PhD in Mathematics from the University of British Columbia, where my research focused on fundamentals of projection methods for learning, sampling and inference and I was fortunate to be advised by [Heinz Bauschke](https://cmps-people.ok.ubc.ca/bauschke/) and [Xianfu Wang](https://cmps.ok.ubc.ca/about/contact/shawn-xianfu-wang/).  
 
 
-On the fundamental side, my current research focuses on nonconvex optimization models for training, sampling, and inference. On the applications side, I am exploring AI for Science and Engineering, AI for Mathematics, and AI in Neuroscience. 
-
+On the fundamental side, my current research focuses on nonconvex optimization models underpinning GenAI, XAI, multimodal AI, and hybrid continuous–discrete models. On the applications side, I explore AI4Science, AI for Mathematics, OAGI, Embodied Intellgence and neuro-symbolic AI. 
 
 
