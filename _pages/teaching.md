@@ -15,6 +15,6 @@ nav: true
 - **2025:** *Rockafellar’s Progressive Decoupling Algorithms: Examples in the Convex Case* — Bachelor’s thesis, Ruiqi Li.
 - **2025:** *Context Collapse: In-Context Learning and Model Collapse* — Master’s thesis, Josef Ott.
 - **2024–2025:** *[Cross-fluctuation phase transitions reveal sampling dynamics in diffusion models](https://arxiv.org/abs/2511.00124)* — PhD student,  
-  [Sai Niranjan Ramachandran](https://informaconnect.com/quantminds-international/speakers/sai-ramachandran/).
+  [Sai Niranjan Ramachandran].
 - **2024–2025:** *[A projection-based framework for gradient-free and parallel learning](https://arxiv.org/abs/2506.05878)* — PhD student,  
-  [Andreas Bergmeister](https://bergmeister.ai/).
+  [Andreas Bergmeister].
