@@ -11,7 +11,7 @@ nav: false
 - **2025:** Fundamentals of Optimization for Machine Learning (with Prof. Dr. Suvrit Sra).
 
 ## Supervised projects and theses (chronological)
-- **09/2025–present:** *On Muon Algorithm* — Master’s thesis, Jan Luca Schmelzer.
+- **2025–2026:** *On Muon Algorithm* — Master’s thesis, Jan Luca Schmelzer.
 - **2025:** *Rockafellar’s Progressive Decoupling Algorithms: Examples in the Convex Case* — Bachelor’s thesis, Ruiqi Li.
 - **2025:** *Context Collapse: In-Context Learning and Model Collapse* — Josef Ott.
 - **2024–2025:**  
