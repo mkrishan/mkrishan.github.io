@@ -260,12 +260,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Krishan Lal]
-  first_name: [Manish]
-
   style: apa
   locale: en
-
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
