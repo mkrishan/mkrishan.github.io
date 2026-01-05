@@ -1,34 +1,38 @@
 metadata:
-  last_updated: '2025-12-29'
+  last_updated: '2026-01-05'
 papers:
   XXBctPIAAAAJ:0N-VGjzr574C:
     citations: 0
     title: Cross-fluctuation phase transitions reveal sampling dynamics in diffusion models
     year: '2025'
+  XXBctPIAAAAJ:4fGpz3EwCPoC:
+    citations: 2
+    title: Nonconvex projections arising in bilinear mathematical models
+    year: '2024'
+  XXBctPIAAAAJ:86PQX7AUzd4C:
+    citations: 2
+    title: Projecting onto rectangular hyperbolic paraboloids in Hilbert space
+    year: '2022'
   XXBctPIAAAAJ:ClCfbGk0d_YC:
     citations: 2
     title: Convergence analysis of a nonmonotone projected gradient method for multiobjective optimization problems on Riemannian manifolds
     year: '2022'
-  XXBctPIAAAAJ:MLfJN-KU85MC:
-    citations: 5
-    title: "Directional asymptotics of Fej\xE9r monotone sequences"
-    year: '2023'
-  XXBctPIAAAAJ:TIZ-Mc8IlK0C:
-    citations: 6
+  XXBctPIAAAAJ:FAceZFleit8C:
+    citations: 0
+    title: 'The flow-limit of Reflect-Reflect-Relax: existence, stability, and discrete-time behavior'
+    year: '2025'
+  XXBctPIAAAAJ:_FM0Bhl9EiAC:
+    citations: 0
+    title: 'Backpropagation from KL projections: differential and exact I-projection correspondences'
+    year: '2025'
+  XXBctPIAAAAJ:_axFR9aDTf0C:
+    citations: 7
     title: Projections onto hyperbolas or bilinear constraint sets in Hilbert spaces
     year: '2023'
-  XXBctPIAAAAJ:Ug5p-4gJ2f0C:
-    citations: 4
+  XXBctPIAAAAJ:bz8QjSJIRt4C:
+    citations: 6
     title: Real roots of real cubics and optimization
     year: '2023'
-  XXBctPIAAAAJ:VaXvl8Fpj5cC:
-    citations: 1
-    title: Projecting onto rectangular hyperbolic paraboloids in Hilbert space
-    year: '2022'
-  XXBctPIAAAAJ:foquWX3nUaYC:
-    citations: 0
-    title: Nonconvex projections arising in bilinear mathematical models
-    year: '2024'
   XXBctPIAAAAJ:hCrLmN-GePgC:
     citations: 5
     title: A nonmonotone trust region method for unconstrained optimization problems on Riemannian manifolds
@@ -37,7 +41,11 @@ papers:
     citations: 0
     title: A projection-based framework for gradient-free and parallel learning
     year: '2025'
-  XXBctPIAAAAJ:p__nRnzSRKYC:
-    citations: 4
+  XXBctPIAAAAJ:kh2fBNsKQNwC:
+    citations: 5
+    title: "Directional asymptotics of Fej\xE9r monotone sequences"
+    year: '2023'
+  XXBctPIAAAAJ:rmuvC79q63oC:
+    citations: 5
     title: The projection onto the cross
     year: '2022'
