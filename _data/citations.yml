@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-09'
 papers:
   XXBctPIAAAAJ:0N-VGjzr574C:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 2
     title: Projecting onto rectangular hyperbolic paraboloids in Hilbert space
     year: '2022'
+  XXBctPIAAAAJ:8d8msizDQcsC:
+    citations: 6
+    title: A nonmonotone trust region method for unconstrained optimization problems on Riemannian manifolds
+    year: '2021'
   XXBctPIAAAAJ:ClCfbGk0d_YC:
     citations: 2
     title: Convergence analysis of a nonmonotone projected gradient method for multiobjective optimization problems on Riemannian manifolds
@@ -33,10 +37,6 @@ papers:
     citations: 6
     title: Real roots of real cubics and optimization
     year: '2023'
-  XXBctPIAAAAJ:hCrLmN-GePgC:
-    citations: 5
-    title: A nonmonotone trust region method for unconstrained optimization problems on Riemannian manifolds
-    year: '2021'
   XXBctPIAAAAJ:k8Z6L05lTy4C:
     citations: 0
     title: A projection-based framework for gradient-free and parallel learning
