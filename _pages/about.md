@@ -2,26 +2,26 @@
 layout: about
 title: about
 permalink: /
-<!--subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
+
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: /assets/img/1768477936794.jpeg
+  image: 1768477936794.jpeg
   image_circular: false
 
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
 I am a postdoctoral researcher in AI at the Technical University of Munich, hosted at the Chair of Resource-Aware Machine Learning, under the mentorship of [Suvrit Sra](https://mcml.ai/research/groups/sra/). I received my PhD in Mathematics from the University of British Columbia, where my research focused on projection methods for learning, sampling, and inference. I was fortunate to be advised by [Heinz Bauschke](https://cmps-people.ok.ubc.ca/bauschke/) and [Xianfu Wang](https://cmps.ok.ubc.ca/about/contact/shawn-xianfu-wang/).  
