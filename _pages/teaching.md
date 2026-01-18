@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Previous teaching and supervision.
-nav: true
+nav: false
 ---
 
 ## Teaching assistant (Technical University of Munich)
