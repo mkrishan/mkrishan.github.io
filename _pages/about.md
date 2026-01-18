@@ -26,6 +26,4 @@ latest_posts:
 
 I am a postdoctoral researcher in AI at the Technical University of Munich, based at the Chair of Resource-Aware Machine Learning, led by [Suvrit Sra](https://mcml.ai/research/groups/sra/). I received my PhD in Mathematics from the University of British Columbia, where my research focused on projection methods and variational analysis. I was fortunate to be advised by [Heinz Bauschke](https://cmps-people.ok.ubc.ca/bauschke/) and [Xianfu Wang](https://cmps.ok.ubc.ca/about/contact/shawn-xianfu-wang/).  
 
-My research studies variational and constrained formulations for learning, sampling, and inference, with emphasis on structure, and stability. I am interested in settings with long horizons, multiple solution paths, and mixed representations, particularly in scientific, generative, and reasoning-oriented applications.
-
-
+My research focuses on variational and constrained formulations for learning, sampling, and inference, with an emphasis on structure and stability. I am particularly interested in settings with long horizons, multiple solution paths, and mixed representations, especially in scientific, generative, and reasoning-oriented applications.
