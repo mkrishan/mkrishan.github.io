@@ -28,4 +28,4 @@ I am a postdoctoral researcher in AI at the Technical University of Munich, base
 
 These days, I am learning and working on variational and constrained formulations for learning, sampling, and inference, with an emphasis on structure and stability. I am particularly interested in settings with long horizons, multiple solution paths, and mixed representations, especially in scientific, generative, and reasoning-oriented systems. 
 
-P.S. I am personally inspired by neuroscience and socially responsible AI, and I am interested in connecting with mentors and engineers to help scale these ideas.
+I am interested in connecting with mentors and engineers to help scale my ideas.
