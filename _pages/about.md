@@ -28,4 +28,4 @@ I am a postdoctoral researcher in AI at the Technical University of Munich, base
 
 These days, I am learning and working on variational and constrained formulations for learning, sampling, and inference, with an emphasis on structure and stability. 
 
-I am on the 2026–27 job market and am open to independent roles with increasing responsibility across academia or industry labs.
+I will be applying in the 2026–27 job market and am open to faculty roles and senior research positions in AI, both in academia and in industry labs.
