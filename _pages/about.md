@@ -26,6 +26,6 @@ latest_posts:
 
 I am a postdoctoral researcher in AI at the Technical University of Munich, based at the [Chair of Resource-Aware Machine Learning](https://mcml.ai/research/groups/sra/). I received my PhD in Mathematics from the University of British Columbia.
 
-These days, I am learning about deep learning from a foundational perspective. I am fortunate to with with a great set of mentors, advisors, and students.
+These days, I am learning about deep learning from a foundational perspective. I am fortunate to work with a great set of mentors, advisors, and students.
 
 I will be applying in the 2026–27 job market and am open to senior research positions in AI, both in academia and in industry labs.
