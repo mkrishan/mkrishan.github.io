@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Personal website of Manish Krishan Lal.">
+  <title>Manish Krishan Lal</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚛️</text></svg>">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --ink: #23272f;
+      --muted: #646b77;
+      --link: #1f4fa3;
+      --link-hover: #163a7a;
+      color-scheme: light;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #181a1f;
+        --ink: #e4e6ea;
+        --muted: #9aa1ac;
+        --link: #8fb4ff;
+        --link-hover: #b8cfff;
+        color-scheme: dark;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: Charter, "Bitstream Charter", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+      font-size: 1.125rem;
+      line-height: 1.6;
+    }
+    main {
+      max-width: 36rem;
+      margin: 0 auto;
+      padding: 16vh 1.5rem 4rem;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+      font-weight: 600;
+      line-height: 1.2;
+      letter-spacing: -0.01em;
+    }
+    .tagline {
+      margin: 0.35rem 0 0;
+      font-size: 0.9375rem;
+      color: var(--muted);
+    }
+    .tagline a { color: inherit; }
+    .tagline a:hover { color: var(--ink); }
+    h2 {
+      margin: 2.5rem 0 0.75rem;
+      font-size: 1.125rem;
+      font-weight: 600;
+    }
+    .works {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .works li + li { margin-top: 1rem; }
+    .works .meta {
+      display: block;
+      font-size: 0.9375rem;
+      color: var(--muted);
+    }
+    .status {
+      margin: 2.5rem 0 0;
+    }
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1.25rem;
+      margin-top: 1rem;
+    }
+    nav a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2rem;
+      height: 2rem;
+      margin-left: -0.25rem;
+      color: var(--muted);
+      text-decoration: none;
+    }
+    nav svg {
+      width: 1.3rem;
+      height: 1.3rem;
+    }
+    nav a:hover { color: var(--ink); }
+    a {
+      color: var(--link);
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.2em;
+    }
+    a:hover { color: var(--link-hover); }
+    a:focus-visible {
+      outline: 2px solid var(--link);
+      outline-offset: 3px;
+      border-radius: 2px;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Manish Krishan Lal</h1>
+    <p class="tagline">I work on <a href="https://doi.org/10.13140/RG.2.2.21223.82088">projection-based learning</a>.</p>
+
+    <h2>Selected work</h2>
+    <ul class="works">
+      <li>
+        <a href="https://arxiv.org/abs/2602.17493">Learning with Boolean threshold functions</a>
+        <span class="meta">With Veit Elser. Preprint, 2026.</span>
+      </li>
+    </ul>
+
+    <p class="status">This site is being rebuilt.</p>
+
+    <!-- Icons: Font Awesome Free 7.3.1, CC BY 4.0, https://fontawesome.com/license/free -->
+    <nav aria-label="Contact">
+      <a href="https://scholar.google.com/citations?user=XXBctPIAAAAJ" aria-label="Google Scholar" title="Google Scholar"><svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M390.9 298.5s0 .1 .1 .1c9.2 19.4 14.4 41.1 14.4 64-.1 82.5-66.9 149.4-149.4 149.4S106.7 445.1 106.7 362.7c0-22.9 5.2-44.6 14.4-64 1.7-3.6 3.6-7.2 5.6-10.7 4.4-7.6 9.4-14.7 15-21.3 27.4-32.6 68.5-53.3 114.4-53.3 33.6 0 64.6 11.1 89.6 29.9 9.1 6.9 17.4 14.7 24.8 23.5 5.6 6.6 10.6 13.8 15 21.3 2 3.4 3.8 7 5.5 10.5l-.1-.1zm26.4-18.8c-30.1-58.4-91-98.4-161.3-98.4s-131.2 40-161.3 98.4l-94.7-77 256-202.7 256 202.7-94.7 77.1 0-.1z"/></svg></a>
+      <a href="https://github.com/mkrishan" aria-label="GitHub" title="GitHub"><svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M216.5 362.5c-66-8-112.5-55.5-112.5-117 0-25 9-52 24-70-6.5-16.5-5.5-51.5 2-66 20-2.5 47 8 63 22.5 19-6 39-9 63.5-9s44.5 3 62.5 8.5c15.5-14 43-24.5 63-22 7 13.5 8 48.5 1.5 65.5 16 19 24.5 44.5 24.5 70.5 0 61.5-46.5 108-113.5 116.5 17 11 28.5 35 28.5 62.5l0 52C323 491.5 335.5 500 350.5 494 441 459.5 512 369 512 257 512 115.5 397 0 255.5 0S0 115.5 0 257c0 111 70.5 203 165.5 237.5 13.5 5 26.5-4 26.5-17.5l0-40c-7 3-16 5-24 5-33 0-52.5-18-66.5-51.5-5.5-13.5-11.5-21.5-23-23-6-.5-8-3-8-6 0-6 10-10.5 20-10.5 14.5 0 27 9 40 27.5 10 14.5 20.5 21 33 21s20.5-4.5 32-16c8.5-8.5 15-16 21-21z"/></svg></a>
+      <a href="https://www.linkedin.com/in/manish-krishan-lal-53a5116a" aria-label="LinkedIn" title="LinkedIn"><svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32L31.9 32C14.3 32 0 46.5 0 64.3L0 447.7C0 465.5 14.3 480 31.9 480L416 480c17.6 0 32-14.5 32-32.3l0-383.4C448 46.5 433.6 32 416 32zM135.4 416l-66.4 0 0-213.8 66.5 0 0 213.8-.1 0zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77zM384.3 416l-66.4 0 0-104c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9l0 105.8-66.4 0 0-213.8 63.7 0 0 29.2 .9 0c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9l0 117.2z"/></svg></a>
+      <a href="https://substack.com/@manishkrishanlal" aria-label="Substack" title="Substack"><svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M448 512L224 386.4 0 512 0 230.7 448 230.7 448 512zm0-336.2l-448 0 0-60.5 448 0 0 60.5zM448 0L448 60.5 0 60.5 0 0 448 0z"/></svg></a>
+      <a href="https://x.com/lalprojection" aria-label="X (Twitter)" title="X (Twitter)"><svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M357.2 48L427.8 48 273.6 224.2 455 464 313 464 201.7 318.6 74.5 464 3.8 464 168.7 275.5-5.2 48 140.4 48 240.9 180.9 357.2 48zM332.4 421.8l39.1 0-252.4-333.8-42 0 255.3 333.8z"/></svg></a>
+    </nav>
+  </main>
+</body>
+</html>
