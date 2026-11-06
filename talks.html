@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Invited talks by Manish Krishan Lal.">
+  <title>Invited talks | Manish Krishan Lal</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚛️</text></svg>">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --ink: #23272f;
+      --muted: #646b77;
+      --link: #1f4fa3;
+      --link-hover: #163a7a;
+      color-scheme: light;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #181a1f;
+        --ink: #e4e6ea;
+        --muted: #9aa1ac;
+        --link: #8fb4ff;
+        --link-hover: #b8cfff;
+        color-scheme: dark;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: Charter, "Bitstream Charter", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+      font-size: 1.125rem;
+      line-height: 1.6;
+    }
+    main {
+      max-width: 36rem;
+      margin: 0 auto;
+      padding: 10vh 1.5rem 4rem;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+      font-weight: 600;
+      line-height: 1.2;
+      letter-spacing: -0.01em;
+    }
+    a {
+      color: var(--link);
+      text-decoration: underline;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.2em;
+    }
+    a:hover { color: var(--link-hover); }
+    a:focus-visible {
+      outline: 2px solid var(--link);
+      outline-offset: 3px;
+      border-radius: 2px;
+    }
+    .back {
+      margin: 0 0 1.5rem;
+      font-size: 0.9375rem;
+    }
+    .back a { color: var(--muted); }
+    .back a:hover { color: var(--ink); }
+    h2 {
+      margin: 2.25rem 0 0.5rem;
+      font-size: 1.125rem;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    li + li { margin-top: 0.5rem; }
+    .date { color: var(--muted); }
+    .host {
+      display: block;
+      font-size: 0.9375rem;
+      color: var(--muted);
+    }
+    .host::before { content: "Thanks to "; }
+    .host:empty { display: none; }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="back"><a href="index.html">← Manish Krishan Lal</a></p>
+    <h1>Invited talks</h1>
+
+    <!--
+      To thank the person who invited you, type their name between the host tags:
+        <span class="host"></span>            stays hidden
+        <span class="host">Adrien Taylor</span>  shows "Thanks to Adrien Taylor"
+      To change the wording "Thanks to", edit the line .host::before in the style section.
+    -->
+
+    <h2>Projection-based learning</h2>
+    <ul>
+      <li>INRIA Paris, Sierra team, <span class="date">February 2026</span><span class="host">Adrien Taylor</span></li>
+      <li>AI+X Summit, ETH AI Center, Zurich, <span class="date">October 2025</span><span class="host">Bingcong Li</span></li>
+      <li>BIRS, Banff, <span class="date">May 2025</span><span class="host">Heinz Bauschke</span></li>
+      <li>EUROPT 2024, Lund University, <span class="date">July 2024</span><span class="host">Pontus Giselsson</span></li>
+      <li>MIT LIDS Seminar (online), <span class="date">2024</span><span class="host">Suvrit Sra</span></li>
+      <li>COCANA Seminar, UBC Okanagan, <span class="date">2022</span><span class="host">Warren Hare</span></li>
+    </ul>
+
+    <h2>Bilinear projection operators</h2>
+    <ul>
+      <li>ISMP 2024, Montreal, <span class="date">July 2024</span><span class="host">Henry Wolkowicz</span></li>
+      <li>EURO 2024, DTU, Denmark, <span class="date">June 2024</span><span class="host"></span></li>
+    </ul>
+
+    <h2>Directional convergence of projection methods</h2>
+    <ul>
+      <li>Nonlinear Analysis and Optimization Seminar, Technion, <span class="date">2023</span><span class="host">Simeon Reich</span></li>
+      <li>Canadian Mathematical Society Meeting, <span class="date">2022</span><span class="host">Heinz Bauschke and Xianfu Wang</span></li>
+    </ul>
+  </main>
+</body>
+</html>
